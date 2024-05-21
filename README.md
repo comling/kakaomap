@@ -1,6 +1,4 @@
-# kakaoMap_API_Test
-
-### 실제 구동화면 주소 https://kkt9102.github.io/kakaoMap_API_Test/
+# 카카오지도 테스트 페이지
 
 ### 카카오DEVTOK 주소 https://devtalk.kakao.com/
 
