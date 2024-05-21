@@ -4,4 +4,4 @@
 
 ### 카카오개발자용 주소 https://developers.kakao.com/
 
-### 커커오 맵 API 주소 https://apis.map.kakao.com/
+### 카카오지도 API 주소 https://apis.map.kakao.com/
